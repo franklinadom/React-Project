@@ -2,17 +2,11 @@
 function Header(){
 
     return(
-      <header>
-        <h1>My website</h1>
-        <nav>
-          <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Services</a></li>
-            <li><a href="#">Contact</a></li>
-          </ul>
-        </nav>
-        <hr></hr>
+      <header className="header">
+        <h5><a href="#">search</a></h5>
+        <h5><a href="#">Instructions and Support</a></h5>
+        <h5><a href="#">English(EN)</a></h5>
+        <h5><a href="#">Login</a></h5>
         
       </header>
     );
