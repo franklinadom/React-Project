@@ -1,7 +1,25 @@
-.header{
+body{
+  margin: 0;
+  padding:0;
+}
+
+.navbar{
   font-family: 'Courier New', Courier, monospace;
   padding-left: 800px;
   display: flex;
-  margin-bottom: 60px;
   gap: 30px;
+  background-color: rgb(26, 26, 121);
+  color: white;
+  height: 45px;
+  text-align: center;
 }
+
+.Brand-name{
+  background-color: rgb(69, 26, 121);
+  padding-left: 30px;
+  margin-top: 0%;
+  height: 50px;
+  justify-content: center;
+  
+}
+

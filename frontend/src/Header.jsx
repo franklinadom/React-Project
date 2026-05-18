@@ -2,13 +2,23 @@
 function Header(){
 
     return(
-      <header className="header">
-        <h5><a href="#">search</a></h5>
-        <h5><a href="#">Instructions and Support</a></h5>
-        <h5><a href="#">English(EN)</a></h5>
-        <h5><a href="#">Login</a></h5>
-        
-      </header>
+      <>
+      
+      <div>
+        <nav className="navbar">
+        <h5>search</h5>
+        <h5>Instructions and Support</h5>
+        <h5>English(EN)</h5>
+        <h5>Login</h5>
+        </nav>
+      </div>
+
+      <div>
+        <header>
+          <p className="Brand-name">JobMarket</p>
+        </header>
+      </div>
+      </>
     );
 
 }
