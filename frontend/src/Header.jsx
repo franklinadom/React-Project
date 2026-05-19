@@ -35,6 +35,33 @@ function Header(){
         <h2 className="main-text">Employment and statistics</h2>
         <p className="main-text2">The Employment and statistics' section contains a collection of assessments, surveys, studies, statistics, and reports published by the KEHA Center</p>
       </div>
+
+      <div className="second-body">
+        <div>
+          <p>The trend of the employment </p>
+          <p className="first">rate(People aged 15-64)</p>
+          <p className="percentage">71%</p>
+        </div>
+        
+        <div>
+          <p>Number of unemployed</p> 
+          <p className="second">persons</p>
+          <p className="figure1">342,800</p>
+        </div>
+
+        <div>
+          <p>New vacancies</p>
+          <p className="figure2">42,000</p>
+        </div>
+
+        <div>
+          <p>Published job applicant </p>
+          <p className="third">profiles</p>
+          <p className="figure3">47,200</p>
+        </div>
+
+    
+      </div>
       </>
     );
 

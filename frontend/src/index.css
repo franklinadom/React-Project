@@ -19,7 +19,7 @@ body{
   display: flex;
   gap: 460px;
   padding-left: 40px;
-  background-color: blue;
+  background-color: rgb(92, 7, 172);
 }
 
 .container2{
@@ -32,11 +32,11 @@ body{
   gap: 30px;
   display: flex;
   padding-left: 40px;
-  background-color: blueviolet;
+  background-color: rgb(114, 1, 114);
 }
 
 .main{
-  color: violet;
+  color: blueviolet;
   background-color:whitesmoke;
   height: 4cm;
   
@@ -49,4 +49,56 @@ body{
 .main-text2{
   text-align: center;
   color: black;
+  font-weight: lighter;
+  font-family: monospace;
+}
+
+
+.second-body{
+  display: flex;
+  justify-content: center;
+  gap: 80px;
+  background-color: rgb(232, 230, 230);
+  height: 5cm;
+  color: blueviolet;
+  
+}
+
+.first{
+  text-align: center;
+  margin-top: 0;
+}
+
+.percentage{
+  text-align: center;
+  font-size: 40px;
+  margin-top: 0;
+  
+}
+
+.second{
+  text-align: center;
+  margin-top: 0;
+}
+
+.figure1{
+  text-align: center;
+  font-size: 40px;
+  margin-top: 0;
+}
+
+.third{
+  text-align: center;
+}
+
+.figure3{
+  text-align: center;
+  font-size: 40px;
+  margin-top: 0;
+}
+
+.figure2{
+  text-align: center;
+  font-size: 40px;
+  margin-top: 0;
 }
