@@ -14,12 +14,39 @@ body{
   text-align: center;
 }
 
-.Brand-name{
-  background-color: rgb(69, 26, 121);
-  padding-left: 30px;
-  margin-top: 0%;
-  height: 50px;
-  justify-content: center;
+.container{
+  color: whitesmoke;
+  display: flex;
+  gap: 460px;
+  padding-left: 40px;
+  background-color: blue;
+}
+
+.container2{
+  gap: 40px;
+  display: flex;
+}
+
+.section3{
+  color: whitesmoke;
+  gap: 30px;
+  display: flex;
+  padding-left: 40px;
+  background-color: blueviolet;
+}
+
+.main{
+  color: violet;
+  background-color:whitesmoke;
+  height: 4cm;
   
 }
 
+.main-text{
+  text-align: center;
+}
+
+.main-text2{
+  text-align: center;
+  color: black;
+}
