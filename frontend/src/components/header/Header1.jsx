@@ -1,5 +1,7 @@
 
-function Header(){
+import './Header1.css';
+
+function Header1(){
 
     return(
       <>
@@ -14,14 +16,16 @@ function Header(){
       </div>
 
       <div className="container">
+        <div>
           <p className="brand-name">JobMarket</p>
-          
-          <div className="container2">
+        </div>
+ 
+        <div className="container2">
           <p>Personal customers</p>
           <p>Employers and entrepreneurs</p>
           <p>Employment and statistics</p>
           <p>Regional pages</p>
-          </div>
+        </div>
           
       </div>
 
@@ -67,4 +71,4 @@ function Header(){
 
 }
 
-export default Header
+export default Header1
