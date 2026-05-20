@@ -15,20 +15,23 @@
 }
 
 .container{
+  display: flex;
+  align-items: center;
   color: whitesmoke;
-  display: flex;
-  justify-content: flex-end;
-  background-color: rgb(92, 7, 172);
+  background-color: rgb(92, 7, 172); 
+  padding: 10px 20px;
+} 
+
+.brand-name p{
+  font-size: 18px;
+
 }
 
-.brand-name{
-  font-size: larger;
-
-}
-.container2{
-  justify-content: flex-end;
-  gap: 40px;
+.container2 {
+  gap: 20px;
   display: flex;
+  margin-left: auto;
+  
 }
 
 .section3{

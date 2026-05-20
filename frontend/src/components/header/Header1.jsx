@@ -16,14 +16,13 @@ function Header1(){
       </div>
 
       <div className="container">
-        <div>
-          <p className="brand-name">JobMarket</p>
-        </div>
+        <p className="brand-name">JobMarket</p>
+        
  
         <div className="container2">
           <p>Personal customers</p>
           <p>Employers and entrepreneurs</p>
-          <p>Employment and statistics</p>
+          <p>Emplsoyment and statistics</p>
           <p>Regional pages</p>
         </div>
           
