@@ -22,7 +22,7 @@ function Header1(){
         <div className="container2">
           <p>Personal customers</p>
           <p>Employers and entrepreneurs</p>
-          <p>Emplsoyment and statistics</p>
+          <p>Employment and statistics</p>
           <p>Regional pages</p>
         </div>
           
