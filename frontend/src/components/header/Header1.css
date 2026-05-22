@@ -46,12 +46,12 @@
 .main{
   color: blueviolet;
   background-color:whitesmoke;
-  
-  
+  padding-bottom: 90px;
 }
 
 .main-text{
   text-align: center;
+  padding-bottom: 10px;
 }
 
 .main-text2{
@@ -64,6 +64,7 @@
 
 .second-body{
   display: flex;
+  padding-top: 20px;
   justify-content: center;
   gap: 80px;
   background-color: rgb(232, 230, 230);
