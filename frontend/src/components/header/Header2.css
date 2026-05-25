@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  display: flex;
+  align-items: center;
+  color: whitesmoke;
+  background-color: rgb(92, 7, 172); 
+  padding: 10px 20px;
+} 
+
+.brand-name p{
+  font-size: 18px;
+
+}
+
+.container2 {
+  gap: 20px;
+  display: flex;
+  margin-left: auto;
+  
+}

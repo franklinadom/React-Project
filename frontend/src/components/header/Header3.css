@@ -1,0 +1,29 @@
+
+
+.section3{
+  display: flex;
+  align-items: center;
+  color: whitesmoke;
+  background-color: rgb(114, 1, 114);
+  padding: 10px 20px;
+  gap: 30px;
+}
+
+.main{
+  color: blueviolet;
+  background-color:whitesmoke;
+  padding-bottom: 90px;
+  padding-top: 20px;
+}
+
+.main-text{
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.main-text2{
+  text-align: center;
+  color: black;
+  font-weight: lighter;
+  font-family: monospace;
+}
