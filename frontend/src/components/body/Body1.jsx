@@ -2,6 +2,7 @@ import './Body1.css'
 
 function Body1(){
   return(
+  <div>
     <div className="second-body">
         <div>
           <p>The trend of the employment </p>
@@ -35,9 +36,13 @@ function Body1(){
           <p className="figure">47,200</p>
           <p className="sub2">Source:job Market Finland</p>
         </div>
+        
+    </div>
+        <div className="line"></div>
+        <p className="Update">Data last updated 24 March 2026.</p>
+  
+  </div>
 
-    
-      </div>
   );
 }
  

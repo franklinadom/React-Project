@@ -1,9 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
 .second-body{
   display: flex;
   padding-top: 20px;
   justify-content: center;
   gap: 60px;
-  background-color: rgb(232, 230, 230);
+  background-color: white;
   color: blueviolet;
 }
 
@@ -60,4 +65,17 @@
 
 .third{
   text-align: center;
+}
+
+.line{
+  width: 65%;
+  background-color: lightgray;
+  height: 1px;
+  margin: 40px auto;
+}
+
+.Update{
+  font-size: small;
+  text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;  
 }
