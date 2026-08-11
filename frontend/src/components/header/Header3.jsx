@@ -6,7 +6,7 @@ function Header3(){
     <div className="section3">
       <p>Evaluation and research</p>
       <p>Statistics and reports</p>
-      <p>Job Market Finland in numbers</p>
+      <p>Job Market Ghana in numbers</p>
     </div>
 
     <div className="main">
